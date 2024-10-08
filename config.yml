@@ -54,13 +54,11 @@ params:
               url: research/
             - name: CV
               url: cv.pdf
-
     socialIcons:
         - name: Email
           url: mailto:jw3tz@virginia.edu
 
     assets:
-        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false

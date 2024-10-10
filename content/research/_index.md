@@ -15,7 +15,7 @@ description: "Publications, working papers and other work in progress"
 
 ### Interactive Map
 
-<iframe src="/maps/your-map.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="https://www.jiongwu.org/maps/interactive_map.html" width="100%" height="600" style="border:none;"></iframe>
 
 ---
 

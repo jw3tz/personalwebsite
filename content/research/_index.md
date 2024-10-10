@@ -12,7 +12,6 @@ description: "Publications, working papers and other work in progress"
     <!-- Insert the figure here using the <img> tag -->
     <img src="GIS_ur.png" alt="Figure: Trade Impact on Unemployment"> 
   </details>
-  <iframe src="interactive_map.html" style="border:none;" width="100%" height="500px"></iframe>
 
 ---
 

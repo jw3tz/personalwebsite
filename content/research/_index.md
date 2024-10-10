@@ -15,11 +15,7 @@ description: "Publications, working papers and other work in progress"
   </details>
   
   [Interactive Map](interactive_map.html)
-  
-=======
-  <details>
-    
->>>>>>> 121de13cc875f6a15b7132c8eeb93ccce9e766aa
+
 ---
 
 ## Work in Progress

@@ -13,8 +13,6 @@ description: "Publications, working papers and other work in progress"
     <img src="GIS_ur.png" alt="Figure: Trade Impact on Unemployment"> 
   </details>
   
-  <iframe src="map/interactive_map.html" width="100%" height="500px" frameborder="0">
-  
 ---
 
 ## Work in Progress

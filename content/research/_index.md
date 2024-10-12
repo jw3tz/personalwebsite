@@ -12,7 +12,7 @@ description: "Publications, working papers and other work in progress"
     <!-- Insert the figure here using the <img> tag -->
     <img src="GIS_ur.png" alt="Figure: Trade Impact on Unemployment"> 
   </details>
-
+  <iframe src="/maps/interactive_map.html" width="100%" height="600" style="border:none;"></iframe>
   [Interactive Map](https://www.jiongwu.org/maps/interactive_map.html)
 
 ---

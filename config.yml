@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Research
           url: research/
           weight: 1
         - name: CV
@@ -44,19 +44,21 @@ params:
     profileMode:
           enabled: true
           title: Jiong Wu
-          subtitle: "Welcome! I am a PhD candidate in economics at University of Virginia. I am on the 2024-25 job market and will be available for interviews. My research interest centers on international trade and macroeconomics. My job market paper looks into the unemployment effects of China shock on the US regional labor markets."
+          subtitle: "Welcome! I am a PhD candidate in economics at University of Virginia. I am on the 2024-25 job market and will be available for interviews. My research interest centers on international trade and macroeconomics. My job market paper looks into the unemployment effects of China shock on the US regional labor markets. I use machine learning algorithms to solve high-dimensional optimization problems."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Jiong Wu
           buttons:
-            - name: Papers
+            - name: Research
               url: research/
             - name: CV
               url: cv.pdf
     socialIcons:
         - name: Email
           url: mailto:jw3tz@virginia.edu
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/jiong-wu-uva
 
     assets:
         disableScrollBarStyle: true

@@ -16,6 +16,17 @@ description: "Publications, working papers and other work in progress"
 
 ---
 
+**Labor Market Responses to Trade: Job Creation and Destruction Across Space and Sectors** <br>
+
+  <details>
+    <summary> Abstract </summary>
+    This paper seeks to link spatial labor sorting with spatial disparities in productivity, wage and unemployment through a new channel, frictional labor market, to study how frictional labor market can contribute to spatial sorting, hence disparities. The model features frictional labor matching with two types of workers, two locations and free labor mobility. The model predicts that the places where the
+ killed workers sort to tend to have higher productivity and wage and lower unemployment rate. The empirical evidence supports the predictions.
+    
+  </details>
+  
+---
+
 ## Work in Progress
 
 **A Multi-country Real Business Cycle Model of International Trade and Finance** <br>

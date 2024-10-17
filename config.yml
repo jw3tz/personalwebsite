@@ -59,7 +59,7 @@ params:
           url: mailto:jw3tz@virginia.edu
         - name: LinkedIn
           url: https://www.linkedin.com/in/jiong-wu-uva
-    customSections:
+    mainSections:
       - title: "Job Market Paper"
         content: |
           [**Labor Market Responses to Trade: Job Creation and Destruction Across Space and Sectors**](jmp.pdf) <br>

@@ -50,6 +50,20 @@
     {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
     {{- end }}
+
+    <!-- Insert Research Content Here, Below Social Icons -->
+    {{ if .IsHome }}
+      <!-- Fetch and render the research content dynamically from the research page -->
+      {{ $research := .Site.GetPage "research/_index.md" }}
+      {{ if $research }}
+        <div class="post-content">
+          <h2>Research</h2>
+          {{ $research.Content }}
+        </div>
+      {{ else }}
+        <p>Research content not found.</p>
+      {{ end }}
+    {{ end }}
   </footer>
 
   {{- if (.Param "comments") }}

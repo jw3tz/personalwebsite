@@ -59,6 +59,8 @@ params:
           url: mailto:jw3tz@virginia.edu
         - name: LinkedIn
           url: https://www.linkedin.com/in/jiong-wu-uva
+    mainSections:
+      - research
 
     assets:
         disableScrollBarStyle: true

@@ -16,7 +16,7 @@ description: "Publications, working papers and other work in progress"
 
 ---
 
-**Labor Market Responses to Trade: Job Creation and Destruction Across Space and Sectors** <br>
+**Frictional Labor Market, Spatial Sorting and Disparities** <br>
 
   <details>
     <summary> Abstract </summary>
@@ -30,6 +30,9 @@ description: "Publications, working papers and other work in progress"
 ## Work in Progress
 
 **A Multi-country Real Business Cycle Model of International Trade and Finance** <br>
-with Tianyang Xie Chenyanzi Yu
+with Tianyang Xie, Chenyanzi Yu
+
+**Trade, Uncertainty and Endogenous Credit Constraint** <br>
+with Yan Chen, Qi Zhang
 
 ---

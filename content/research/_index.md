@@ -26,12 +26,20 @@ description: "Publications, working papers and other work in progress"
   
 ---
 
+**Trade, Uncertainty and Endogenous Credit Constraint** <br>
+with Yan Chen, Qi Zhang
+
+  <details>
+    <summary> Abstract </summary>
+    This paper investigates whether trade can alleviate or exacerbate capital misallocation caused by credit constraints. Using a difference-in-differences approach with firm-level balance sheet data, we find that U.S. firms facing greater reductions in trade policy uncertainty experienced decreased financial constraints. To explore this mechanism, we construct a multi-sector, two-country model featuring endogenous credit constraints and heterogeneous firms. The model demonstrates that trade induces a selection effect, pushing less productive—and more financially constrained—firms out of the market. Simultaneously, more productive firms expand with lower marginal costs due to cheaper imports, easing their credit constraints. As a result, trade reduces the distortions caused by credit constraints, leading to substantial welfare gains.
+    
+  </details>
+  
+---
+
 ## Work in Progress
 
 **A Multi-country Real Business Cycle Model of International Trade and Finance** <br>
 with Tianyang Xie, Chenyanzi Yu
-
-**Trade, Uncertainty and Endogenous Credit Constraint** <br>
-with Yan Chen, Qi Zhang
 
 ---

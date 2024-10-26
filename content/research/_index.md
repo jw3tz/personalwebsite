@@ -20,8 +20,7 @@ description: "Publications, working papers and other work in progress"
 
   <details>
     <summary> Abstract </summary>
-    This paper seeks to link spatial labor sorting with spatial disparities in productivity, wage and unemployment through a new channel, frictional labor market, to study how frictional labor market can contribute to spatial sorting, hence disparities. The model features frictional labor matching with two types of workers, two locations and free labor mobility. The model predicts that the places where the
- killed workers sort to tend to have higher productivity and wage and lower unemployment rate. The empirical evidence supports the predictions.
+    This paper explores how frictional labor markets contribute to spatial labor sorting and, consequently, to disparities in productivity, wages, and unemployment across regions. The model incorporates frictional labor matching with two worker types, two locations, and free labor mobility. It predicts that the skilled workers tend to sort into areas with higher productivity, higher wages, and lower unemployment rates. Empirical evidence aligns with these theoretical predictions, suggesting that frictional labor markets play a crucial role in shaping spatial economic disparities.
     
   </details>
   

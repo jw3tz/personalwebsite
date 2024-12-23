@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title: Jiong Wu
-          subtitle: "Welcome! I am a PhD candidate in economics at University of Virginia. I am on the 2024-25 job market and will be available for interviews. My research focuses on the intersections of international trade, labor economics, urban economics, and macroeconomics, with a strong emphasis on understanding the interplay between trade shocks, labor markets, and regional dynamics. I employ both theoretical modeling and empirical analysis, leveraging quantitative tools to explore the effects of globalization on labor market outcomes and regional economic disparities. I adopt machine learning algorithms to solve high-dimensional non-convex optimization problems."
+          subtitle: "Welcome! I am a PhD candidate in economics at University of Virginia. I am on the 2024-25 job market and will be available for interviews. My research focuses on the intersections of international trade, macroeconomics, labor economics, and urban economics, with a strong emphasis on understanding the interplay between trade shocks, labor markets, and regional dynamics. I employ both structural modeling and empirical analysis, leveraging quantitative tools to explore the effects of globalization on labor market outcomes and regional economic disparities. I adopt machine learning algorithms to solve high-dimensional optimization problems."
           imageUrl: "picture.jpg"
           imageWidth: 108
           imageHeight: 164

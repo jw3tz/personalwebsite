@@ -27,7 +27,7 @@ description: "Publications, working papers and other work in progress"
 ---
 
 **Trade, Uncertainty and Endogenous Credit Constraint** <br>
-with Yan Chen, Qi Zhang
+with [Yan Chen](https://sites.google.com/view/yan-chen-econ/home?authuser=0), Qi Zhang
 
   <details>
     <summary> Abstract </summary>

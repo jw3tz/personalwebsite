@@ -8,7 +8,7 @@ description: "Publications, working papers and other work in progress"
 
   <details>
     <summary> Abstract </summary>
-    In an era dominated by globalization and international trade, the impact of trade shocks on employment has become a pressing concern for policymakers and the public. This paper examines the impact of the China trade shock on U.S. local labor markets, focusing on unemployment and its key drivers: job finding and job separation rates. Using a shift-share design, I find that regions exposed to the shock experience significant and persistent unemployment increases due to lower job finding and higher job separation rates. To explain these results and capture the persistency, I develop a multi-sector, multi-region labor matching model with endogenous job creation and destruction. The calibrated model shows that the China shock raises the overall U.S. unemployment rate by 0.18 percentage points and accounts for 87% of the decline in the manufacturing employment share of working-age population from 2000 to 2007. Nevertheless, it boosts overall productivity by 0.16% and welfare by 0.04% with all agents, even the unemployed, benefiting from trade. The Hosios (1990) condition alone cannot achieve constrained socially optimal allocations in this model. Without waging a trade war, a redistributive corporate tax policy could improve welfare and reduce unemployment, while restoring the pre-shock manufacturing employment levels. (JEL: F16, F62, J21, J64, R13)
+    
     
   </details>
   <b> Interactive Map (Click to see the predicted China shock effects) </b>
